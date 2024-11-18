@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #FF6969 !important;
+}
+
+main {
+  max-width: 100%;
+  padding-top: 30px;
+  padding-left: 60px;
+  justify-content: center;
+}
+
+footer {
+  padding: 8px;
+  color: #FAF1E4;
+  background-color: #141E46;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+character-list {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+
+}
+
+
