@@ -32,8 +32,8 @@ footer {
 
 character-list {
   display: grid;
-  grid-template-columns: 30px 30px 30px;
-
+  grid-auto-coloms: 50px;
+  grid-gap: 10px
 }
 
 
