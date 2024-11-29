@@ -33,7 +33,7 @@ footer {
 character-list {
   display: grid;
   grid-auto-coloms: 50px;
-  grid-gap: 10px
+  grid-gap: 30px
 }
 
 
